@@ -18,4 +18,14 @@
 		}
 	};
 
+	class BinaryTree
+	{
+	public:
+		Node* ROOT;
+
+		BinaryTree()
+		{
+			ROOT = NULL; // intializing ROOT to null
+		}
+
 	
